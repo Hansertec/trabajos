@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main(){
+
+  
+  int n;
+  float raiz; 
+
+  printf("ingrese numero:  ");
+  scanf("%i",&n);
+  
+  raiz = sqrt(n);
+
+
+  printf("la raiz cuadrada es: %f",raiz);
+
+  return 0;
+
+}
