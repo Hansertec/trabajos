@@ -1,0 +1,11 @@
+C:\Users\hanse\source\repos\ejercicio 6.0\ejercicio 6.0\bin\Debug\ejercicio 6.0.exe.config
+C:\Users\hanse\source\repos\ejercicio 6.0\ejercicio 6.0\bin\Debug\ejercicio 6.0.exe
+C:\Users\hanse\source\repos\ejercicio 6.0\ejercicio 6.0\bin\Debug\ejercicio 6.0.pdb
+C:\Users\hanse\source\repos\ejercicio 6.0\ejercicio 6.0\obj\Debug\ejercicio 6.0.csproj.AssemblyReference.cache
+C:\Users\hanse\source\repos\ejercicio 6.0\ejercicio 6.0\obj\Debug\ejercicio 6.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanse\source\repos\ejercicio 6.0\ejercicio 6.0\obj\Debug\ejercicio_6._0.Form1.resources
+C:\Users\hanse\source\repos\ejercicio 6.0\ejercicio 6.0\obj\Debug\ejercicio_6._0.Properties.Resources.resources
+C:\Users\hanse\source\repos\ejercicio 6.0\ejercicio 6.0\obj\Debug\ejercicio 6.0.csproj.GenerateResource.cache
+C:\Users\hanse\source\repos\ejercicio 6.0\ejercicio 6.0\obj\Debug\ejercicio 6.0.csproj.CoreCompileInputs.cache
+C:\Users\hanse\source\repos\ejercicio 6.0\ejercicio 6.0\obj\Debug\ejercicio 6.0.exe
+C:\Users\hanse\source\repos\ejercicio 6.0\ejercicio 6.0\obj\Debug\ejercicio 6.0.pdb

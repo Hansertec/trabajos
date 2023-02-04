@@ -1,0 +1,11 @@
+C:\Users\hanse\source\repos\calculadoras\calculadoras\obj\Debug\calculadoras.csproj.AssemblyReference.cache
+C:\Users\hanse\source\repos\calculadoras\calculadoras\obj\Debug\calculadoras.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanse\source\repos\calculadoras\calculadoras\obj\Debug\calculadoras.Properties.Resources.resources
+C:\Users\hanse\source\repos\calculadoras\calculadoras\obj\Debug\calculadoras.csproj.GenerateResource.cache
+C:\Users\hanse\source\repos\calculadoras\calculadoras\obj\Debug\calculadoras.csproj.CoreCompileInputs.cache
+C:\Users\hanse\source\repos\calculadoras\calculadoras\bin\Debug\calculadoras.exe.config
+C:\Users\hanse\source\repos\calculadoras\calculadoras\bin\Debug\calculadoras.exe
+C:\Users\hanse\source\repos\calculadoras\calculadoras\bin\Debug\calculadoras.pdb
+C:\Users\hanse\source\repos\calculadoras\calculadoras\obj\Debug\calculadoras.Calculadoras.resources
+C:\Users\hanse\source\repos\calculadoras\calculadoras\obj\Debug\calculadoras.exe
+C:\Users\hanse\source\repos\calculadoras\calculadoras\obj\Debug\calculadoras.pdb
