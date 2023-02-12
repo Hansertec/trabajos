@@ -1,0 +1,11 @@
+C:\Users\hanse\source\repos\loteriaV2\loteriaV2\bin\Debug\loteriaV2.exe.config
+C:\Users\hanse\source\repos\loteriaV2\loteriaV2\bin\Debug\loteriaV2.exe
+C:\Users\hanse\source\repos\loteriaV2\loteriaV2\bin\Debug\loteriaV2.pdb
+C:\Users\hanse\source\repos\loteriaV2\loteriaV2\obj\Debug\loteriaV2.csproj.AssemblyReference.cache
+C:\Users\hanse\source\repos\loteriaV2\loteriaV2\obj\Debug\loteriaV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanse\source\repos\loteriaV2\loteriaV2\obj\Debug\loteriaV2.Form1.resources
+C:\Users\hanse\source\repos\loteriaV2\loteriaV2\obj\Debug\loteriaV2.Properties.Resources.resources
+C:\Users\hanse\source\repos\loteriaV2\loteriaV2\obj\Debug\loteriaV2.csproj.GenerateResource.cache
+C:\Users\hanse\source\repos\loteriaV2\loteriaV2\obj\Debug\loteriaV2.csproj.CoreCompileInputs.cache
+C:\Users\hanse\source\repos\loteriaV2\loteriaV2\obj\Debug\loteriaV2.exe
+C:\Users\hanse\source\repos\loteriaV2\loteriaV2\obj\Debug\loteriaV2.pdb
