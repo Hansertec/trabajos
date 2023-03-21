@@ -1,0 +1,14 @@
+C:\Users\hanse\source\repos\dbv1\dbv1\obj\Debug\dbv1.csproj.AssemblyReference.cache
+C:\Users\hanse\source\repos\dbv1\dbv1\obj\Debug\dbv1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanse\source\repos\dbv1\dbv1\obj\Debug\dbv1.Form1.resources
+C:\Users\hanse\source\repos\dbv1\dbv1\obj\Debug\dbv1.Properties.Resources.resources
+C:\Users\hanse\source\repos\dbv1\dbv1\obj\Debug\dbv1.csproj.GenerateResource.cache
+C:\Users\hanse\source\repos\dbv1\dbv1\obj\Debug\dbv1.csproj.CoreCompileInputs.cache
+C:\Users\hanse\source\repos\dbv1\dbv1\bin\Debug\dbv1.exe.config
+C:\Users\hanse\source\repos\dbv1\dbv1\bin\Debug\dbv1.exe
+C:\Users\hanse\source\repos\dbv1\dbv1\bin\Debug\dbv1.pdb
+C:\Users\hanse\source\repos\dbv1\dbv1\bin\Debug\LiteDB.dll
+C:\Users\hanse\source\repos\dbv1\dbv1\bin\Debug\LiteDB.xml
+C:\Users\hanse\source\repos\dbv1\dbv1\obj\Debug\dbv1.csproj.CopyComplete
+C:\Users\hanse\source\repos\dbv1\dbv1\obj\Debug\dbv1.exe
+C:\Users\hanse\source\repos\dbv1\dbv1\obj\Debug\dbv1.pdb
