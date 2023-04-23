@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Empleados>
+	<Listado>
+		<persona nombre ="Pedro" apellido="Perez"></persona>
+
+		<persona nombre ="Maria" apellido="Sanchez"></persona>
+
+		<persona nombre ="Samuel" apellido="Pichardo"></persona>
+
+		<persona nombre ="Daniel" apellido="Pina"></persona>
+
+		<persona nombre ="Mario" apellido="Penosa"></persona>
+
+		<persona nombre ="Maria" apellido="Bastardo"></persona>
+
+		<persona nombre ="Samuel" apellido="Barcelo"></persona>
+
+		<persona nombre ="Pedro Daniel" apellido="Batlle"></persona>
+
+		<persona nombre ="Daniel" apellido="Perdomo"></persona>
+
+
+	</Listado>
+</Empleados>
